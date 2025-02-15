@@ -1,0 +1,9 @@
+{
+    "name": "tree",
+    "version": "1.0.0",
+    "description": "A tree data structure library for C++",
+    "homepage": "https://github.com/Ali-Hassan2/Tree-Library",
+    "license": "MIT",
+    "dependencies": []
+  }
+  
