@@ -1,0 +1,5 @@
+Source: tree
+Version: 1.0.0
+Description: A simple tree data structure library by Ali Hassan.
+Maintainer: Ali Hassan & Noman Azam
+Build-Depends:
